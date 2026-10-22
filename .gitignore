@@ -1,0 +1,19 @@
+*:Zone.Identifier
+*.class
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+bin/
+out/
+.DS_Store
+Thumbs.db
+_macosx/
+node_modules/
+
+# file with login info for database
+db.properties
+
+doc/*
